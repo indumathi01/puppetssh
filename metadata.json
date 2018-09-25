@@ -1,0 +1,18 @@
+{
+  "name": "zippyops-puppetmodule",
+  "version": "0.1.0",
+  "author": "indhu",
+  "summary": "puppet newmodule",
+  "license": "Apache-2.0",
+  "source": "git@github.com:indumathi01/puppetssh.git",
+  "project_page": "https://github.com/indumathi01/puppetssh",
+  "issues_url": "https://github.com/indumathi01/puppetssh/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
