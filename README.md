@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # puppetmodule
 
 #### Table of Contents
@@ -87,3 +88,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# puppetssh
+>>>>>>> 7bfc2a616a0fde00af8f0d8a2572e8014105eb05
